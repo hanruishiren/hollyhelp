@@ -1,0 +1,2 @@
+# hollyhelp
+cors for cloudflare
